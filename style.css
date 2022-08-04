@@ -1,0 +1,29 @@
+body{
+    background-color: #eee !important;
+}
+.container{
+    background-color: #fff;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+}
+#outputs{
+    height: 200px;
+    background-color: #000;
+}
+#red{
+    accent-color: red;
+}
+#green{
+    accent-color: green;
+}
+#blue{
+    accent-color: blue;
+}
+#output{
+    position: absolute;
+    transform: translate(-50%,-10%);
+    top: 30%;
+    left: 50%;
+}
